@@ -1,0 +1,120 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    color: #434455;
+background-color: #FCFCFC;
+    margin: 0;
+    padding: 0;
+}
+
+.header-title{
+    text-align: center;
+    margin-top: 24px;
+margin-bottom: 24px;
+margin-left: 156px;       
+}
+.portfolio{
+    font-family: 'Roboto', sans-serif;
+    font-weight: regular;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 4%;
+     color:#434455;
+    text-decoration: none; 
+    margin-top: 24px;
+   
+}
+.portfolio :hover{
+ color:#404BBF;
+}
+
+.studio{
+    font-family: 'Roboto', sans-serif;
+    font-weight: regular;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 4%;
+     color:#434455;
+    text-decoration: none; 
+    margin-top: 24px;
+    
+}
+.studio :hover{
+ color:#404BBF;
+}
+.studio :active{
+    color: #404BBF;
+    text-decoration: none;
+}
+.contacts{
+    font-family: 'Roboto', sans-serif;
+    font-weight: regular;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 4%;
+     color:#434455;
+    text-decoration: none; 
+    margin-top: 24px;
+    
+}
+ .contacts :hover{
+ color:#404BBF;
+}
+
+address ul li a{
+    font-family: 'Roboto', sans-serif;
+    font-weight: regular;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 4%;
+     color:#434455;
+    text-decoration: none; 
+    margin-top: 24px;
+   
+
+}
+address :hover{
+ color:#404BBF;
+}
+.header-title{
+    background-color: #2E2F42;
+    width: 1440px;
+    height: 600px;
+   
+
+}
+h1{
+    font-family: Roboto;
+   font-weight: bold;
+size:56px;
+letter-spacing: 2%;
+line-height: 60px;
+ text-decoration: none; 
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 188px;
+    padding-left: 472px;
+    padding-right: 472px;
+    margin: 0;
+}
+.batton-text{
+    font-family: 'Roboto', sans-serif;
+    font-weight: medium;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 4%;
+    margin-top: 16px;
+    margin-left: 32px;
+    margin-bottom: 16px;
+   
+}
+button{
+    width: 169px;
+    height: 56px;
+    border: none;
+    background-color: #4D5AE5;
+    border-radius: 4px;
+color: #FFFFFF;
+}
+button:hover{
+    background-color: #404BBF;
+}
