@@ -11,8 +11,7 @@ background-color: #FCFCFC;
     text-align: center;
     margin-top: 24px;
     margin-bottom: 24px;
-  
-    background-color: #2E2F42;
+  background-color: #2E2F42;
    
 }
 .portfolio{
@@ -99,6 +98,7 @@ line-height: 60px;
     padding-left: 472px;
     padding-right: 472px;
     margin: 0;
+    background-color: #2E2F42;
 }
 h2{
   font-family: 'Roboto';
