@@ -28,7 +28,7 @@ text-decoration: none;
 }
 
 
-.nav-list-studio {
+.nav-list{
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -38,15 +38,15 @@ text-decoration: none;
     text-decoration: none; }
     
    
-.nav-list-studio:hover{
+.nav-list:hover{
  color:#404BBF;
 }
 
-.nav-list-studio:focus{
+.nav-list:focus{
     color: #404BBF;
     text-decoration: none;
 }
-.nav-list-portfolio {
+.nav-list {
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -54,16 +54,16 @@ text-decoration: none;
     letter-spacing: 0.02em;
      color: #2e2f42;
     text-decoration: none; }
-    .nav-list-portfolio:hover{
+    .nav-list:hover{
        color:#404BBF;
     }
 
 
-.nav-list-portfolio:focus{
+.nav-list:focus{
     color: #404BBF;
     text-decoration: none;
     }
-    .nav-list-contacts{
+    .nav-list{
          font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -72,10 +72,10 @@ text-decoration: none;
      color: #2e2f42;
     text-decoration: none; }
 
-    .nav-list-contacts:hover{
+    .nav-list:hover{
     color:#404BBF;
         }
-        .nav-list-portfolio:focus{
+        .nav-list:focus{
     color: #404BBF;
     text-decoration: none;}
 address{
